@@ -148,7 +148,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![Uploading Screenshot 2026-09-05 122955.png…]()
+
+<img width="998" height="509" alt="Screenshot 2026-09-05 122955" src="https://github.com/user-attachments/assets/9447f11f-92fc-4875-999a-2831f15e2339" />
 
 
 
